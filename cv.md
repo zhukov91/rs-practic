@@ -2,7 +2,6 @@
 Alexey Zhukov
 
 # Contacts: 
-e-mail: zizipro3@yandex.by
 
 Github: https://github.com/zhukov91
 
@@ -25,7 +24,7 @@ Html, CSS, Js(basic knowledge)
 Basic knowledge: C#, Delphi
 VCS: Git
 Code examples:
-var number = 1234;
+```var number = 1234;
 var quantity = 0;
 
 for (var i = number; i >= 1; i /= 10)
@@ -33,6 +32,7 @@ for (var i = number; i >= 1; i /= 10)
         quantity++;
     }
   console.log(quantity);
+``` 
 Experience:
 Finished interactive courses of HTML Academy. Completed a couple of hundred lab tests at the Institute
 
