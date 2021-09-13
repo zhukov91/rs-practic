@@ -21,14 +21,15 @@ Having tried programming, I liked it. I want to start my career as a junior fron
 
 # Skills:
 > Html, CSS, Js(basic knowledge)
-
+>
 > Basic knowledge: C#, Delphi
-
+>
 > VCS: Git
 
 Code examples:
 
-```var number = 1234;
+```
+var number = 1234;
 var quantity = 0;
 
 for (var i = number; i >= 1; i /= 10)
