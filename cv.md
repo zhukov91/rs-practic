@@ -20,9 +20,9 @@ https://github.com/zhukov91
 Having tried programming, I liked it. I want to start my career as a junior front-end developer.
 
 # Skills:
-Html, CSS, Js(basic knowledge)
-Basic knowledge: C#, Delphi
-VCS: Git
+> Html, CSS, Js(basic knowledge)
+> Basic knowledge: C#, Delphi
+> VCS: Git
 Code examples:
 ```var number = 1234;
 var quantity = 0;
