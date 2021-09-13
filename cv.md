@@ -58,11 +58,6 @@ function expanded_form(int $n): string {
 ```
 # Experience:
 Finished interactive courses of HTML Academy. Completed a couple of hundred lab tests at the Institute
-
-# English level:
-Approximately A2
-
-
 # Education:
 
 2021	RS school 
