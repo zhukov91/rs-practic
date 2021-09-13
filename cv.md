@@ -3,15 +3,13 @@ Alexey Zhukov
 
 # Contacts: 
 
-Github: https://github.com/zhukov91
+**Github:** https://github.com/zhukov91
 
-Discord: alexZhukov(@zhukov91)
+**Discord:** alexZhukov(@zhukov91)
 
-City:
-Minsk Belarus
+**City:** Minsk Belarus
 
-e-mail:
-zizipro3@yandex.by
+**e-mail:** zizipro3@yandex.by
 
 Github:
 https://github.com/zhukov91
@@ -26,7 +24,7 @@ Having tried programming, I liked it. I want to start my career as a junior fron
 >
 > VCS: Git
 
-Code examples:
+# Code examples:
 
 ```
 var number = 1234;
