@@ -15,10 +15,30 @@ zizipro3@yandex.by
 Github:
 https://github.com/zhukov91
 
-Skills
-HTML5 
-CSS (SASS) 
-JAVASCRIPT 
+Summary:
+Having tried programming, I liked it. I want to start my career as a junior front-end developer.
+
+Skills:
+Html, CSS, Js(basic knowledge)
+Basic knowledge: C#, Delphi
+VCS: Git
+Code examples:
+var number = 1234;
+var quantity = 0;
+
+for (var i = number; i >= 1; i /= 10)
+    {
+        quantity++;
+    }
+  console.log(quantity);
+Experience:
+Finished interactive courses of HTML Academy. Completed a couple of hundred lab tests at the Institute
+
+Education:
+Don State Technical University, bachelor degree Information systems and technology
+
+English level:
+Approximately A2
 
 
 Education
