@@ -1,9 +1,11 @@
-
-About me
+# About me
 Alexey Zhukov
-Contacts: 
+
+# Contacts: 
 e-mail: zizipro3@yandex.by
+
 Github: https://github.com/zhukov91
+
 Discord: alexZhukov(@zhukov91)
 
 City:
@@ -15,10 +17,10 @@ zizipro3@yandex.by
 Github:
 https://github.com/zhukov91
 
-Summary:
+# Summary:
 Having tried programming, I liked it. I want to start my career as a junior front-end developer.
 
-Skills:
+# Skills:
 Html, CSS, Js(basic knowledge)
 Basic knowledge: C#, Delphi
 VCS: Git
@@ -34,16 +36,14 @@ for (var i = number; i >= 1; i /= 10)
 Experience:
 Finished interactive courses of HTML Academy. Completed a couple of hundred lab tests at the Institute
 
-Education:
-Don State Technical University, bachelor degree Information systems and technology
 
-English level:
+# English level:
 Approximately A2
 
 
-Education
+Education:
 
 2021	RS school 
-language
+# language
 
 English A2
