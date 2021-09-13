@@ -1,21 +1,21 @@
-**Alexey Zhukov
+** Alexey Zhukov
 Contacts:
-**City:
+** City:
 Minsk Belarus
 
-**Phone:
+** Phone:
 +37529 5509121
 
-**e-mail:
+** e-mail:
 zizipro3@yandex.by
 
-**Github:
+** Github:
 https://github.com/zhukov91
 
-**Purpose:
+** Purpose:
 Level up by Linus Torvalds, Bill Gates, Steve Jobs, Pavel Durov, Satoshi Nakamoto or something like that. Contribute to IT new story of getting rich.
 
-**Skills:
+** Skills:
 Knowledge programming languages:
 JavaScript,
 Html,
@@ -38,10 +38,10 @@ if(worldSleeps){
   clearTimeout(timer);
   greeting()
 }
-**My projects:
+** My projects:
 only HTML & CSS project
 only HTML & CSS project with adaptive
 HTML, CSS and NativeJS project
 
-**Knowledge of English:
+** Knowledge of English:
 A2 level
