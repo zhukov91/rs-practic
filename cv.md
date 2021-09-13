@@ -11,16 +11,13 @@ Alexey Zhukov
 
 **e-mail:** zizipro3@yandex.by
 
-Github:
-https://github.com/zhukov91
-
 # Summary:
 Having tried programming, I liked it. I want to start my career as a junior front-end developer.
 
 # Skills:
 > Html, CSS, Js(basic knowledge)
 >
-> Basic knowledge: C#, Delphi
+> Basic knowledge: OPP
 >
 > VCS: Git
 
