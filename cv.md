@@ -26,9 +26,6 @@ Knowledge of BEM.
 Working with the layout:
 Figma,
 Photoshop.
-Ability to work with API requests:
-Postman,
-Charles.
 Knowledge of the basics of manual and automated testing.
 Bash basics.
 Sample code:
