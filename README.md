@@ -1,3 +1,3 @@
-https://zhukov91.github.io/rsschool-cv/cv
+https://zhukov91.github.io/rs-practic/cv
 
-https://zhukov91.github.io/rsschool-cv/
+https://zhukov91.github.io/rs-practic/
